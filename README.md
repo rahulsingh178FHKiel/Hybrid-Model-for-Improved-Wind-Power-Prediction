@@ -1,8 +1,8 @@
-# [Hybrid Model for Improved Wind Power Prediction]
+# Hybrid Model for Improved Wind Power Prediction
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name]
+[[https://github.com/your_username/your_project_name](https://github.com/rahulsingh178FHKiel/Hybrid-Model-for-Improved-Wind-Power-Prediction)]
 
 ## Description
 
