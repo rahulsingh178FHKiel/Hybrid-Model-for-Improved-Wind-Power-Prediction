@@ -1,4 +1,4 @@
-# [Your Project Title Here]
+# [Hybrid Model for Improved Wind Power Prediction]
 
 ## Repository Link
 
