@@ -6,7 +6,7 @@
 
 ## Description
 
-[Accurately predicting wind power generation is a fundamental challenge for renewable energy integration. Variability in wind patterns, atmospheric conditions, and data limitations often hinder traditional forecasting models, leading to inefficiencies in energy grid management. This project seeks to improve prediction accuracy by developing a hybrid machine learning framework, integrating deep learning and reinforcement learning techniques with classical ML approaches. By refining feature selection and optimizing model architectures, the project aims to produce a forecasting model that is both adaptive and robust in handling unpredictable wind behavior.]
+Accurately predicting wind power generation is a fundamental challenge for renewable energy integration. Variability in wind patterns, atmospheric conditions, and data limitations often hinder traditional forecasting models, leading to inefficiencies in energy grid management. This project seeks to improve prediction accuracy by developing a hybrid machine learning framework, integrating deep learning and reinforcement learning techniques with classical ML approaches. By refining feature selection and optimizing model architectures, the project aims to produce a forecasting model that is both adaptive and robust in handling unpredictable wind behavior.
 
 ### Task Type
 
