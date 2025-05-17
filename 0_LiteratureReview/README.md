@@ -12,13 +12,13 @@ Approaches or solutions that have been tried before on similar projects.
   - **Outcomes**: Both of the optimization  resulted in individual and combined improvements, with the accuracy increasing as the Mean Absolute Relative Error (MARE) reduced by up to 7.5%  and enhanced stability over longer horizons, reducing error fluctuations in wind power predictions.
   - **Relation to the Project**: This paper directly supports the Hybrid Model for Improved Wind Power Prediction by providing insights into ANN-based forecasting enhancements. The findings can be integrated into the project by using multi-source meteorological data to refine input features and optimizing ANN architectures for better short-term forecasting.
 
-- **Source 2**: [Title of Source 2]
+- **Source 2**: Short-term wind power forecasting using evolutionary algorithms for the automated specification of artificial intelligence models
 
-  - **[Link]()**
-  - **Objective**:
-  - **Methods**:
-  - **Outcomes**:
-  - **Relation to the Project**:
+  - **[Link](https://www.sciencedirect.com/science/article/abs/pii/S016920700800099X)**
+  - **Objective**:To introduce a new short-term prediction method that uses evolutionary optimization algorithms (Particle Swarm Optimization and Differential Evolution) for the automated specification of Artificial Intelligence models, specifically Neural Networks and Nearest Neighbour Search, for wind power forecasting.
+  - **Methods**:The study employs evolutionary algorithms (Particle Swarm Optimization and Differential Evolution) to automatically select input variables and internal model parameters for Neural Network (ANN) and Nearest Neighbour Search (NNS) prediction models.  The method uses predicted weather data and historical power data from the target wind farm, as well as historical power data from other distant wind farms, as inputs.
+  - **Outcomes**: The application of these optimization algorithms resulted in a reduction of the prediction error when compared to Neural Network models with standard manually selected variables.  The best results showed a mean improvement in prediction error of 9.6% compared to persistence when using an ANN automatically specified by Particle Swarm Optimization.  A further reduction in error (mean improvement of 10.75% over persistence) could be achieved by averaging the model output of the automatically specified Neural Network and the Nearest Neighbour search-based prediction approach. 
+  - **Relation to the Project**: This paper is relevant as it explores the use of evolutionary algorithms for optimizing AI models in wind power forecasting, which aligns with the project's aim of developing a Hybrid Model for Improved Wind Power Prediction. The findings on automated variable selection and model specification can inform the development of the hybrid model by suggesting methods to enhance model performance and reduce manual tuning efforts. The use of data from multiple wind farm locations also presents an interesting approach for potentially improving the project's model.
 
 - **Source 3**: New Hybrid Deep Neural Architectural Search-Based Ensemble Reinforcement Learning Strategy for Wind Power Forecasting
 
