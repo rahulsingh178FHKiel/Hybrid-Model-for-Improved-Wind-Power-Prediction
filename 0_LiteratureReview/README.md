@@ -20,10 +20,10 @@ Approaches or solutions that have been tried before on similar projects.
   - **Outcomes**:
   - **Relation to the Project**:
 
-- **Source 3**: [Title of Source 3]
+- **Source 3**: New Hybrid Deep Neural Architectural Search-Based Ensemble Reinforcement Learning Strategy for Wind Power Forecasting
 
-  - **[Link]()**
-  - **Objective**:
-  - **Methods**:
-  - **Outcomes**:
-  - **Relation to the Project**:
+  - **[Link](https://ieeexplore.ieee.org/document/9609674)**
+  - **Objective**: To propose a novel hybrid ensemble reinforcement learning (ERL) framework for wind power forecasting. It integrates deep neural architecture search and ensemble strategies to improve prediction accuracy and model robustness.
+  - **Methods**: Ensemble Reinforcement Learning (ERL): Trains multiple agents (models) in parallel, combining their outputs to reduce overfitting and improve prediction stability. Neural Architecture Search (NAS): An automated method to find the best deep learning model structure (layers, neurons, etc.) for the specific task.
+  - **Outcomes**: The hybrid ERL method outperformed all baseline models on real-world wind datasets. It achieved lower RMSE and MAE values, indicating better forecasting accuracy. The proposed approach showed better generalization and adaptability to noisy, non-stationary wind power data.
+  - **Relation to the Project**: This paper is highly relevant to your topic as it presents a hybrid model combining deep learning, feature selection, architecture search, and ensemble reinforcement learning to improve wind power prediction accuracy. It provides a strong benchmark and methodological inspiration for our literature review.
