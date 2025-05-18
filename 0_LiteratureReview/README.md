@@ -17,7 +17,8 @@ Approaches or solutions that have been tried before on similar projects.
   - **[Link](https://www.sciencedirect.com/science/article/abs/pii/S016920700800099X)**
   - **Objective**: Use evolutionary algorithms to automate the design of AI models (ANN and Nearest Neighbour Search) for wind forecasting.
   - **Methods**: Applied Particle Swarm Optimization (PSO) and Differential Evolution (DE) to select inputs and tune model parameters, using weather and power data from both local and remote wind farms.
-  - **Outcomes**: Models optimized with PSO outperformed manually tuned ones, reducing prediction error by up to 10.75% over baseline. 
+  - **Outcomes**: Models optimized with PSO outperformed manually tuned ones, reducing prediction error by up to 10.75% over baseline.
+    - ![image](https://github.com/user-attachments/assets/fd31dce1-1b83-4abe-a863-69c7b91ee29a)
   - **Relation to the Project**: Supports our project’s use of automation and optimization for model tuning. Also reinforces the benefit of incorporating data from multiple wind farms.
 
 - **Source 3**: New Hybrid Deep Neural Architectural Search-Based Ensemble Reinforcement Learning Strategy for Wind Power Forecasting
