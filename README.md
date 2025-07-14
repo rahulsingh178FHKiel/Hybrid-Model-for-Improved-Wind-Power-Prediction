@@ -1,22 +1,20 @@
 # Hybrid Model for Improved Wind Power Prediction
 
-## Repository Link
-
-[(https://github.com/rahulsingh178FHKiel/Hybrid-Model-for-Improved-Wind-Power-Prediction)]
-
+## [Repository Link](https://github.com/rahulsingh178FHKiel/Hybrid-Model-for-Improved-Wind-Power-Prediction)
 ## Description
 
 Accurately predicting wind power generation is a fundamental challenge for renewable energy integration. Variability in wind patterns, atmospheric conditions, and data limitations often hinder traditional forecasting models, leading to inefficiencies in energy grid management. This project seeks to improve prediction accuracy by developing a hybrid machine learning framework, integrating deep learning and reinforcement learning techniques with classical ML approaches. By refining feature selection and optimizing model architectures, the project aims to produce a forecasting model that is both adaptive and robust in handling unpredictable wind behavior.
 
 ### Task Type
 
-[Image Classification / Chatbot / Regression / Clustering / Other]
+Regression
 
 ### Results Summary
 
-- **Best Model:** [Name of the best-performing model]
-- **Evaluation Metric:** [e.g., Accuracy, F1-Score, MSE]
-- **Result:** [e.g., 95% accuracy, F1-score of 0.8]
+- **Best Model:** Gradient Boosting
+(XGBoost)
+- **Evaluation Metric:** MAE, RMSE
+- **Result:** MAE : 0.006257, RMSE : 0.035123
 
 ## Documentation
 
@@ -28,4 +26,4 @@ Accurately predicting wind power generation is a fundamental challenge for renew
 
 ## Cover Image
 
-![Project Cover Image](CoverImage/cover_image.png)
+![Project Cover Image](CoverImage/cover_image.png.png)
